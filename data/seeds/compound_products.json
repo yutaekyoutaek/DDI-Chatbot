@@ -1,0 +1,22 @@
+[
+  {
+    "alias": "판콜에이",
+    "ingredients": ["acetaminophen", "chlorpheniramine", "pseudoephedrine", "dextromethorphan"]
+  },
+  {
+    "alias": "판콜a",
+    "ingredients": ["acetaminophen", "chlorpheniramine", "pseudoephedrine", "dextromethorphan"]
+  },
+  {
+    "alias": "타이레놀콜드",
+    "ingredients": ["acetaminophen", "pseudoephedrine", "dextromethorphan"]
+  },
+  {
+    "alias": "타이레놀 콜드",
+    "ingredients": ["acetaminophen", "pseudoephedrine", "dextromethorphan"]
+  },
+  {
+    "alias": "종합감기약",
+    "ingredients": ["acetaminophen", "chlorpheniramine", "pseudoephedrine", "dextromethorphan"]
+  }
+]

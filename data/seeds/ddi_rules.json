@@ -1,0 +1,267 @@
+[
+  {
+    "drugs": ["ibuprofen", "loxoprofen"],
+    "severity": "moderate",
+    "summary": "NSAID 계열 중복 복용으로 위장관 부작용 위험이 증가할 수 있습니다.",
+    "recommendation": "가능하면 병용을 피하고, 필요 시 의사 또는 약사와 상담하세요."
+  },
+  {
+    "drugs": ["ibuprofen", "naproxen"],
+    "severity": "moderate",
+    "summary": "NSAID 계열 중복 복용으로 위장관 자극과 출혈 위험이 증가할 수 있습니다.",
+    "recommendation": "같은 계열 진통소염제를 함께 복용하지 않는 것이 좋습니다."
+  },
+  {
+    "drugs": ["loxoprofen", "naproxen"],
+    "severity": "moderate",
+    "summary": "같은 NSAID 계열 약물의 병용으로 부작용 위험이 커질 수 있습니다.",
+    "recommendation": "중복 복용 여부를 확인하고 가능하면 병용을 피하세요."
+  },
+  {
+    "drugs": ["ibuprofen", "dexibuprofen"],
+    "severity": "moderate",
+    "summary": "이부프로펜과 덱시부프로펜은 유사한 계열로 중복 복용 시 부작용 위험이 커질 수 있습니다.",
+    "recommendation": "둘 중 하나만 복용하는 것이 일반적으로 더 안전합니다."
+  },
+  {
+    "drugs": ["loxoprofen", "dexibuprofen"],
+    "severity": "moderate",
+    "summary": "NSAID 계열 중복 복용으로 위장과 신장 관련 부작용 위험이 증가할 수 있습니다.",
+    "recommendation": "의도적인 병용이 아니라면 함께 복용하지 않는 것이 좋습니다."
+  },
+  {
+    "drugs": ["naproxen", "dexibuprofen"],
+    "severity": "moderate",
+    "summary": "같은 계열 소염진통제의 중복 사용으로 부작용 위험이 증가할 수 있습니다.",
+    "recommendation": "병용 전 전문가 상담이 권장됩니다."
+  },
+  {
+    "drugs": ["aspirin", "ibuprofen"],
+    "severity": "moderate",
+    "summary": "아스피린과 이부프로펜 병용 시 위장관 부작용 위험이 증가할 수 있습니다.",
+    "recommendation": "복용 목적과 복용 간격을 반드시 확인하고 전문가와 상담하세요."
+  },
+  {
+    "drugs": ["aspirin", "naproxen"],
+    "severity": "moderate",
+    "summary": "아스피린과 나프록센 병용은 위장 자극과 출혈 위험을 높일 수 있습니다.",
+    "recommendation": "의사 지시 없이 함께 복용하지 않는 것이 좋습니다."
+  },
+  {
+    "drugs": ["aspirin", "loxoprofen"],
+    "severity": "moderate",
+    "summary": "아스피린과 록소프로펜을 함께 복용하면 위장관 부담이 커질 수 있습니다.",
+    "recommendation": "병용 필요성이 있는 경우 전문가 상담이 필요합니다."
+  },
+  {
+    "drugs": ["aspirin", "dexibuprofen"],
+    "severity": "moderate",
+    "summary": "아스피린과 덱시부프로펜 병용 시 위장관 부작용 위험이 증가할 수 있습니다.",
+    "recommendation": "함께 복용하기 전 반드시 전문가에게 확인하세요."
+  },
+  {
+    "drugs": ["diclofenac", "ibuprofen"],
+    "severity": "moderate",
+    "summary": "서로 다른 NSAID를 함께 복용하면 위장관과 신장 관련 부작용 위험이 커질 수 있습니다.",
+    "recommendation": "같은 계열 약물 중복 복용을 피하세요."
+  },
+  {
+    "drugs": ["diclofenac", "naproxen"],
+    "severity": "moderate",
+    "summary": "NSAID 계열 약물 병용으로 위장 자극과 출혈 위험이 높아질 수 있습니다.",
+    "recommendation": "병용을 피하고 필요 시 전문가 상담을 받으세요."
+  },
+  {
+    "drugs": ["diclofenac", "loxoprofen"],
+    "severity": "moderate",
+    "summary": "같은 계열 소염진통제 병용으로 부작용 위험이 증가할 수 있습니다.",
+    "recommendation": "한 가지 약만 사용하도록 복용 계획을 확인하세요."
+  },
+  {
+    "drugs": ["aceclofenac", "ibuprofen"],
+    "severity": "moderate",
+    "summary": "아세클로페낙과 이부프로펜은 같은 계열로 병용 시 위장관 부작용 위험이 증가할 수 있습니다.",
+    "recommendation": "중복 복용을 피하는 것이 좋습니다."
+  },
+  {
+    "drugs": ["aceclofenac", "naproxen"],
+    "severity": "moderate",
+    "summary": "두 NSAID를 함께 사용하면 위장관과 신장 부담이 증가할 수 있습니다.",
+    "recommendation": "의도적인 병용이 아니라면 함께 복용하지 마세요."
+  },
+  {
+    "drugs": ["meloxicam", "ibuprofen"],
+    "severity": "moderate",
+    "summary": "멜록시캄과 이부프로펜은 같은 계열로 병용 시 부작용 위험이 커질 수 있습니다.",
+    "recommendation": "같은 계열 약물은 가능한 한 중복 복용하지 마세요."
+  },
+  {
+    "drugs": ["celecoxib", "ibuprofen"],
+    "severity": "moderate",
+    "summary": "셀레콕시브와 이부프로펜 병용은 위장관 및 신장 관련 부작용 위험을 높일 수 있습니다.",
+    "recommendation": "의사 지시 없이 병용하지 않는 것이 좋습니다."
+  },
+  {
+    "drugs": ["celecoxib", "naproxen"],
+    "severity": "moderate",
+    "summary": "같은 소염진통 목적의 약물 병용으로 부작용 위험이 증가할 수 있습니다.",
+    "recommendation": "복용 중인 진통제 종류를 확인하고 병용을 피하세요."
+  },
+  {
+    "drugs": ["acetaminophen", "ibuprofen"],
+    "severity": "low",
+    "summary": "일반적으로 함께 사용되기도 하지만 복용량과 복용 간격을 주의해야 합니다.",
+    "recommendation": "권장 용법·용량을 초과하지 마세요."
+  },
+  {
+    "drugs": ["acetaminophen", "loxoprofen"],
+    "severity": "low",
+    "summary": "직접적인 중대한 상호작용은 적지만, 중복 진통제 사용 여부를 확인할 필요가 있습니다.",
+    "recommendation": "장기간 병용 전에는 전문가와 상담하는 것이 좋습니다."
+  },
+  {
+    "drugs": ["acetaminophen", "naproxen"],
+    "severity": "low",
+    "summary": "함께 사용되기도 있으나 진통제를 여러 개 복용하는 상황인지 확인이 필요합니다.",
+    "recommendation": "복용 목적과 복용 간격을 확인하세요."
+  },
+  {
+    "drugs": ["acetaminophen", "dexibuprofen"],
+    "severity": "low",
+    "summary": "중대한 직접 상호작용은 적지만, 복용량과 복용 간격 관리가 중요합니다.",
+    "recommendation": "필요 이상으로 진통제를 중복 복용하지 마세요."
+  },
+  {
+    "drugs": ["acetaminophen", "aspirin"],
+    "severity": "low",
+    "summary": "직접적인 중대한 상호작용은 적지만, 복합제 포함 여부를 확인해야 합니다.",
+    "recommendation": "장기 복용 시 전문가 상담이 권장됩니다."
+  },
+  {
+    "drugs": ["acetaminophen", "diclofenac"],
+    "severity": "low",
+    "summary": "함께 복용되는 경우도 있으나 전체 진통제 사용량을 확인할 필요가 있습니다.",
+    "recommendation": "권장 용량을 넘지 않도록 주의하세요."
+  },
+  {
+    "drugs": ["acetaminophen", "celecoxib"],
+    "severity": "low",
+    "summary": "직접적인 중대한 상호작용은 적지만 중복 진통 목적 사용인지 확인이 필요합니다.",
+    "recommendation": "장기간 병용은 전문가와 상담 후 결정하세요."
+  },
+  {
+    "drugs": ["acetaminophen", "combination_product"],
+    "severity": "moderate",
+    "summary": "복합 감기약 또는 복합 진통제에 아세트아미노펜이 포함되어 있을 수 있어 중복 복용 위험이 있습니다.",
+    "recommendation": "제품 성분표를 확인하고 같은 성분의 중복 복용을 피하세요."
+  },
+  {
+    "drugs": ["ibuprofen", "combination_product"],
+    "severity": "moderate",
+    "summary": "복합제 안에 진통소염 성분이 포함되어 있을 가능성이 있어 중복 복용 위험이 있습니다.",
+    "recommendation": "제품 성분을 확인하고 전문가와 상담하세요."
+  },
+  {
+    "drugs": ["loxoprofen", "combination_product"],
+    "severity": "moderate",
+    "summary": "복합 감기약 또는 진통제와 함께 복용할 때 성분 중복 가능성을 확인해야 합니다.",
+    "recommendation": "성분표를 확인하고 병용 전 전문가와 상담하세요."
+  },
+  {
+    "drugs": ["naproxen", "combination_product"],
+    "severity": "moderate",
+    "summary": "복합제와 병용 시 같은 계열 진통 성분이 겹칠 수 있어 주의가 필요합니다.",
+    "recommendation": "제품 성분 확인 후 복용 여부를 결정하세요."
+  },
+  {
+    "drugs": ["dexibuprofen", "combination_product"],
+    "severity": "moderate",
+    "summary": "복합제에 유사 진통 성분이 포함되어 있을 수 있어 중복 복용 위험이 있습니다.",
+    "recommendation": "다른 진통제가 포함되어 있는지 확인하세요."
+  },
+  {
+    "drugs": ["aspirin", "combination_product"],
+    "severity": "moderate",
+    "summary": "복합제와 병용 시 추가 진통 또는 해열 성분 중복 가능성이 있습니다.",
+    "recommendation": "성분표 확인 후 전문가와 상담하는 것이 좋습니다."
+  },
+  {
+    "drugs": ["tramadol", "acetaminophen"],
+    "severity": "low",
+    "summary": "함께 사용되는 경우가 있으나 졸림, 어지러움 등 부작용을 함께 고려해야 합니다.",
+    "recommendation": "운전이나 기계 조작 전에는 주의하세요."
+  },
+  {
+    "drugs": ["tramadol", "combination_product"],
+    "severity": "moderate",
+    "summary": "복합제의 성분에 따라 진통 성분 중복 또는 부작용 위험이 증가할 수 있습니다.",
+    "recommendation": "복합제 성분을 확인하고 병용 전 전문가와 상담하세요."
+  },
+  {
+    "drugs": ["warfarin", "ibuprofen"],
+    "severity": "high",
+    "summary": "출혈 위험이 유의하게 증가할 수 있습니다.",
+    "recommendation": "자가 판단으로 병용하지 말고 반드시 의료진과 상담하세요."
+  },
+  {
+    "drugs": ["ibuprofen", "loxoprofen"],
+    "severity": "moderate",
+    "summary": "NSAID 계열 중복 복용으로 위장관 부작용 위험이 증가할 수 있습니다.",
+    "recommendation": "가능하면 병용을 피하고, 필요 시 전문가와 상담하세요."
+  },
+  {
+    "drugs": ["ibuprofen", "naproxen"],
+    "severity": "moderate",
+    "summary": "NSAID 계열 중복 복용으로 위장장애와 출혈 위험이 증가할 수 있습니다.",
+    "recommendation": "같은 계열의 진통소염제를 중복 복용하지 않는 것이 좋습니다."
+  },
+  {
+    "drugs": ["naproxen", "loxoprofen"],
+    "severity": "moderate",
+    "summary": "NSAID 계열 약물의 병용으로 위장관 출혈 및 신장 부담 위험이 커질 수 있습니다.",
+    "recommendation": "병용을 피하고 증상이 지속되면 의사 또는 약사와 상담하세요."
+  },
+  {
+    "drugs": ["aspirin", "ibuprofen"],
+    "severity": "moderate",
+    "summary": "출혈 위험이 증가할 수 있으며, 아스피린의 항혈소판 효과에 영향을 줄 수 있습니다.",
+    "recommendation": "반드시 필요한 경우가 아니라면 함께 복용하지 말고 전문가와 상담하세요."
+  },
+  {
+    "drugs": ["aspirin", "naproxen"],
+    "severity": "moderate",
+    "summary": "출혈 위험과 위장관 부작용 위험이 증가할 수 있습니다.",
+    "recommendation": "가능하면 병용을 피하고 위장 증상이 있으면 즉시 상담하세요."
+  },
+  {
+    "drugs": ["aspirin", "loxoprofen"],
+    "severity": "moderate",
+    "summary": "출혈 위험과 위장 점막 손상 위험이 커질 수 있습니다.",
+    "recommendation": "함께 복용하지 않는 것이 바람직합니다."
+  },
+  {
+    "drugs": ["warfarin", "ibuprofen"],
+    "severity": "high",
+    "summary": "출혈 위험이 유의하게 증가할 수 있습니다.",
+    "recommendation": "자가 판단으로 병용하지 말고 반드시 의료진과 상담하세요."
+  },
+  {
+    "drugs": ["warfarin", "naproxen"],
+    "severity": "high",
+    "summary": "출혈 위험이 크게 증가할 수 있습니다.",
+    "recommendation": "병용 전 반드시 의사 또는 약사와 상의하세요."
+  },
+  {
+    "drugs": ["warfarin", "aspirin"],
+    "severity": "high",
+    "summary": "항응고 및 항혈소판 작용이 겹쳐 출혈 위험이 크게 증가할 수 있습니다.",
+    "recommendation": "의료진의 명확한 지시 없이 함께 복용하지 마세요."
+  },
+  {
+    "drugs": ["cetirizine", "chlorpheniramine"],
+    "severity": "moderate",
+    "summary": "항히스타민제 중복으로 졸림, 집중력 저하, 입마름 등이 심해질 수 있습니다.",
+    "recommendation": "같은 계열 약을 동시에 복용하지 않는 것이 좋습니다."
+  }
+
+]

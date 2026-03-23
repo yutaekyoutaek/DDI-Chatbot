@@ -1,0 +1,45 @@
+[
+  { "alias": "타이레놀", "ingredient": "acetaminophen" },
+  { "alias": "타이레놀정", "ingredient": "acetaminophen" },
+  { "alias": "acetaminophen", "ingredient": "acetaminophen" },
+  { "alias": "paracetamol", "ingredient": "acetaminophen" },
+  { "alias": "아세트아미노펜", "ingredient": "acetaminophen" },
+
+  { "alias": "애드빌", "ingredient": "ibuprofen" },
+  { "alias": "부루펜", "ingredient": "ibuprofen" },
+  { "alias": "이부프로펜", "ingredient": "ibuprofen" },
+  { "alias": "ibuprofen", "ingredient": "ibuprofen" },
+
+  { "alias": "록소닌", "ingredient": "loxoprofen" },
+  { "alias": "록소프로펜", "ingredient": "loxoprofen" },
+  { "alias": "loxoprofen", "ingredient": "loxoprofen" },
+
+  { "alias": "낙센", "ingredient": "naproxen" },
+  { "alias": "나프록센", "ingredient": "naproxen" },
+  { "alias": "naproxen", "ingredient": "naproxen" },
+
+  { "alias": "아스피린", "ingredient": "aspirin" },
+  { "alias": "aspirin", "ingredient": "aspirin" },
+
+  { "alias": "디클로페낙", "ingredient": "diclofenac" },
+  { "alias": "diclofenac", "ingredient": "diclofenac" },
+
+  { "alias": "세티리진", "ingredient": "cetirizine" },
+  { "alias": "cetirizine", "ingredient": "cetirizine" },
+
+  { "alias": "클로르페니라민", "ingredient": "chlorpheniramine" },
+  { "alias": "chlorpheniramine", "ingredient": "chlorpheniramine" },
+
+  { "alias": "슈다페드", "ingredient": "pseudoephedrine" },
+  { "alias": "슈도에페드린", "ingredient": "pseudoephedrine" },
+  { "alias": "pseudoephedrine", "ingredient": "pseudoephedrine" },
+
+  { "alias": "덱스트로메토르판", "ingredient": "dextromethorphan" },
+  { "alias": "dextromethorphan", "ingredient": "dextromethorphan" },
+
+  { "alias": "와파린", "ingredient": "warfarin" },
+  { "alias": "warfarin", "ingredient": "warfarin" },
+
+  { "alias": "메트포르민", "ingredient": "metformin" },
+  { "alias": "metformin", "ingredient": "metformin" }
+]
